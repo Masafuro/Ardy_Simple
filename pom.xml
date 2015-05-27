@@ -4,12 +4,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-	<groupId>org.ardublock</groupId>
-	<artifactId>ardublock</artifactId>
+	<groupId>Ratto-Office</groupId>
+	<artifactId>Ardy</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1.0-SNAPSHOT</version>
-	<name>ArduBlock</name>
-	<description>A Block Programming Language for Arduino</description>
+	<name>Ardy</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -122,5 +121,6 @@
 	      <scope>test</scope>
 	    </dependency>
 	</dependencies>
-	<url>http://ardublock.com/</url>
+	<url>https://github.com/Masafuro/Ardy</url>
+	<description>初心者用Ardublock改良版</description>
 </project>
